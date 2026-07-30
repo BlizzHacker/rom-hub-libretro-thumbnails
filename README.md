@@ -1,5 +1,8 @@
 # libretro Thumbnails plugin for ROM Hub
 
+A project of the [Move Weight Foundation](https://foundation.moveweight.com), a
+501(c)(3).
+
 Implements the RPP v1 `metadata` capability: box art for a ROM that is already
 in your RomM library, from libretro's public thumbnail repositories.
 
