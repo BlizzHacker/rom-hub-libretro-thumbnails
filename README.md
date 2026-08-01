@@ -1,5 +1,7 @@
 # libretro Thumbnails plugin for ROM Hub
 
+> Part of **[Cartridge](https://github.com/BlizzHacker/rom-hub/blob/master/BRAND.md)** by MoveWeight — a **[ROMarr](https://github.com/BlizzHacker/romarr)** / ROM Hub plugin. Unofficial; not affiliated with RomM, Gaseous or Retrom.
+
 Implements the RPP v1 `metadata` capability: box art for a ROM that is already
 in your RomM library, from libretro's public thumbnail repositories.
 
